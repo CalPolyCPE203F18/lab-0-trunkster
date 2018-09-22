@@ -16,7 +16,7 @@ public class Lab00 {
 
         //call a function
         int numFound = char_count(y, 'l');
-        System.out.println("Found:" + numFound);
+        System.out.println("Found:" + " " + numFound);
 
         //a counting for loop
         for (int i = 0; i < 11; i++) {
