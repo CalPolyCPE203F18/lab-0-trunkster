@@ -19,8 +19,8 @@ public class Lab00 {
         System.out.println("Found:" + " " + numFound);
 
         //a counting for loop
-        for (int i = 0; i < 11; i++) {
-            System.out.print("" + i + " ");
+        for (int i = 1; i < 11; i++) {
+            System.out.print(i + " ");
 
         }
 
